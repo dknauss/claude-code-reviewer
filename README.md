@@ -1,5 +1,5 @@
 # claude-code-reviewer
-[![License](https://img.shields.io/github/license/jazzsequence/claude-code-reviewer)](LICENSE) [![Latest Tag](https://img.shields.io/github/v/tag/jazzsequence/claude-code-reviewer)](https://github.com/jazzsequence/claude-code-reviewer/tags)
+[![License](https://img.shields.io/github/license/jazzsequence/claude-code-reviewer)](LICENSE) [![Latest Tag](https://img.shields.io/github/v/tag/jazzsequence/claude-code-reviewer)](https://github.com/jazzsequence/claude-code-reviewer/tags) [![Docs](https://img.shields.io/badge/docs-available-0a7ea4.svg)](docs/) [![AI Authorship](https://img.shields.io/badge/AI%20authorship-disclosed-8a63d2.svg)](docs/ai-authorship.md)
 
 
 An adversarial reviewer workflow for [Claude Code](https://claude.ai/code) that enforces mandatory AI review.
